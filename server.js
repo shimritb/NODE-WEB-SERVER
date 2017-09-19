@@ -51,7 +51,7 @@ app.get('/about', (req, res) => {
     });
 });
 
-//bad
+//bad bad bad
 
 app.get('/bad', (req, res) => {
     res.send({
